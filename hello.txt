@@ -1,1 +1,5 @@
-helloWord
+<<<<<<< HEAD
+hiWord
+=======
+hiWord
+>>>>>>> test
